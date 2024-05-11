@@ -1,1 +1,89 @@
-# web
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum Vitae</title>
+
+</head>
+<body>
+    <!--Titulo-->
+    <h1>Currículum Vitae</h1>
+    <img src="Imagen/yo.jpg" alt="Mi Foto" height="250px" width="260px">
+
+
+    <!--Nombre-->
+    <h1>Enrique Ernesto Corona Garcia</h1>
+
+    <!--Datos personales-->
+    <h2>Datos Personales</h2>
+    <ul>
+        <li><strong>Nombre:</strong>Enrique Ernesto Corona Garcia</li>
+        <li><strong>Fecha de Nacimiento:</strong> 19 de Diciembre del 2004</li>
+        <li><strong>Nacionalidad:</strong> Mexicana</li>
+        <li><strong>Cédula:</strong> 18938370</li>
+        <li><strong>Domicilio:</strong> Calle Profesa, N°212, Col. Metropolitana Primera Seccion</li>
+        <li><strong>Lugar de Residencia:</strong> San Vicente</li>
+        <li><strong>Teléfono:</strong> (52) 5636232039</li>
+        <li><strong>Correo Electrónico:</strong> enrique579@gmail.com</li>
+    </ul>
+<br>
+    <!--Grado de estudios-->
+    <h2>Grado de Estudios</h2>
+    <table border="1" width="80%">
+        <tr>
+            <th>Años</th>
+            <th>Título</th>
+            <th>Universidad</th>
+        </tr>
+        <tr>
+            <td>2020-2024</td>
+            <td>TSU. en TI de Desarrollo Multiplataforma</td>
+            <td>Universidad Tecnologica de Nezahualcoyotl</td>
+        </tr>
+        
+    </table border="1" width="80%">
+
+    <!--Experiencia laboral-->
+    <h2>Experiencia Laboral</h2>
+    <table border="1" width="80%">
+        <tr>
+            <th>Tiempo</th>
+            <th>Empresa</th>
+            <th>Puesto</th>
+            <th>Tareas</th>
+        </tr>
+        <tr>
+            <td>2020-2022</td>
+            <td>Gogle</td>
+            <td>Desarrollador Web Multiplataforma</td>
+            <td>Desarrollor de aplicaciones web utilizando HTML, CSS.</td>
+        </tr>
+        
+    </table>
+
+    <!--Habilidades-->
+    <h2>Habilidades</h2>
+    <table border="1" width="60%">
+        <tr>
+            <td>Kotlin</td>
+            <td>PSient</td>
+            <td>java</td>
+        </tr>
+        <tr>
+            <td>HTML</td>
+            <td>CSS</td>
+            <td>SQL</td>
+        </tr>
+    </table>
+
+    <!--Idiomas-->
+  <h2>Idiomas</h2>
+    <ul>
+        <li>Español (nativo)</li>
+        <li>Inglés (intermedio)</li>
+        <li>Japones (En Desarrollo)</li>
+    </ul>
+    
+</body>
+</html>
